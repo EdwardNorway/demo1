@@ -1,3 +1,3 @@
 # demo1
-my first Nodejs program
-learn how to use GitHub by Deng Chunhua
+my Demo Nodejs program
+in my private GitHub account 
